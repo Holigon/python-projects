@@ -3,7 +3,7 @@
 ## **My Goals**
 
 This is my repository for my projects using Python 3.  
-I taught myself Python some years ago, but life got in the way, and I never really got profecient. This is my attempt at getting back into it.  
+I taught myself Python some years ago, but life got in the way, and I never really got proficient. This is my attempt at getting back into it.  
 I plan on using this repository as a place to store my projects, and to use the `README.md` file as a tool to write project reports to gain an overview on my progess.  
 The report structure should also serve as a method to quickly gain an overview of my thought process behind the creation of the program, to refer back to later.
 
@@ -97,6 +97,8 @@ WIP
 * [Mastering Markdown [Github Guides]](https://guides.github.com/features/mastering-markdown/) - Refer to my last answer
 * [Git Cheatsheet [DZone]](https://dzone.com/articles/top-20-git-commands-with-examples) - To learn terminal commands for Git
 * [GitHub](https://github.com/) - Kinda hard to see this otherwise
+* [/r/Python](https://www.reddit.com/r/Python/top/) - For inspiration
+* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Educational *and* fun! Helps keeping me from staring too deep into the abyss... Am I being watched right now?
 
 ### **My Setup**
 
