@@ -36,7 +36,7 @@ def dogSit():
         if treatsEaten > 100:
             print("\nOh no! You have given too many treats to Arthur, and now he is sick!")
             print("Now he will never learn to sit :-( ")
-            gameOver =  r''' # Using 'r' in front of string, to turn into a raw-string. To prevent backslash errors
+            gameOver =  r'''
 
             G A M E  O V E R
 

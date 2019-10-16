@@ -54,5 +54,3 @@ I am using the [w3schools Python Tutorial](https://www.w3schools.com/python/defa
   - [ ] Check String
   - [ ] String Concatenation (a + b)
   - [ ] String Format (`"str" + var` | `format()` | `{0}`)
-
-**WIP**

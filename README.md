@@ -9,8 +9,6 @@ The report structure should also serve as a method to quickly gain an overview o
 
 *For all intents and purposes this repo is made for my private use and viewing, but if you are interested in observing the process of a novice learning the wonderful and scary world of programming, then feel free to read my reports.*
 
----
-
 ## **Report Structure Guidelines**
 
 I want to structure my project reports in a rigid manner to effectivise the writing process, and to be able to have an easy way to look back on the thougt process behind each project.
@@ -19,13 +17,11 @@ I want to structure my project reports in a rigid manner to effectivise the writ
 
 1. **Introduction** - What is the purpose of the program? What does the program do?
 2. **Goals** - What are my goals for this project? (Learning, Functionality, Uses, etc.)
-3. **Process** - How did I approach the goals? How did I come up with
+3. **Process** - How did I approach the goals? How did I come up with the idea?
 4. **Execution** - How does the code work? What paths does it follow? (Maybe diagrams as visual aid?)
 5. **Methods** - Which built-in functions did I use? Did I import libaries? Which?
 6. **Hindsight** - Did I do something that in hindsight could've been done better? Any regrets? Any critisism?
 7. **Conclusion** - Did I achieve my goals? How could I improve? Anything I need to remember for the next project?
-
----
 
 ## **Projects (ordered from oldest to newest)**
 
@@ -80,8 +76,6 @@ WIP
 ### **Conclusion**
 
 WIP
-
----
 
 ## **Other** - Tools and Info
 
